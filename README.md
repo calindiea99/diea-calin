@@ -62,6 +62,5 @@ This site can be easily deployed to GitHub Pages or any static site hosting serv
 - `_config.yml` - Site configuration
 - `_layouts/` - Page templates
 - `_posts/` - Blog posts
-- `_includes/` - Reusable components
 - `assets/` - CSS, images, and other static files
 - `index.html` - Homepage
